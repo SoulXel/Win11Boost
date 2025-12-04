@@ -2,8 +2,7 @@
 
 **Win11Boost** — это современная утилита для оптимизации производительности Windows 11, которая снижает задержку ввода, повышает частоту кадров в играх и улучшает общую отзывчивость системы.
 
-![Uploading image.png…]()
-
+<img width="798" height="698" alt="image" src="https://github.com/user-attachments/assets/d6ecab8f-ed29-46bd-9f42-cc7a9edb6693" />
 
 ## ✨ Возможности
 
